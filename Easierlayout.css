@@ -1,0 +1,48 @@
+* {box-sizing: border-box;
+    text-align: center;
+    background-color: whitesmoke
+}
+div {
+    border: 7px solid white;
+    padding: 5px;
+    background-color: lightgray;
+    width: 960px;
+
+ }
+.contain {
+    border: 8px solid white;
+    padding: 50px;
+    background-color: lightgrey;
+    width: 560px;
+    float: left;
+    margin: auto;
+    text-align: top;
+
+}
+
+.aside {
+    border: 8px solid white;
+    padding: 50px;
+    background-color: lightgrey;
+    width: 400px;
+    float: left;
+}
+.main {
+    border: 8px solid white;
+    padding: 15px;
+    background-color: lightgray;
+    width: 960px; 
+    text-align: center;
+}
+footer {
+    margin: auto;
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    border: 8px solid white;
+    position: absolute;
+    bottom-margin: 5px;
+    width: 960px;
+
+
+}
